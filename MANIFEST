@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Catalyst-Plugin-DBIC-TemplateMaker.t
+lib/Catalyst/Plugin/DBIC/TemplateMaker.pm
